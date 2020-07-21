@@ -1,0 +1,17 @@
+name: GameModeUI
+main: pedhot\GameModeUI\Main
+api: 3.0.0
+version: 1.0
+author: Pedhott
+website: https://github.com/pedhot
+
+commands: 
+  gamemodeui:
+    description: open GameModeUI
+	aliases: [gmui]
+	permission: pocketmine.command.gamemode
+	
+permissions:
+  pocketmine.command.gamemode:
+    default: op
+	usage: gamemodeui

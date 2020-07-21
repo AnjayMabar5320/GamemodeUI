@@ -1,0 +1,51 @@
+#Config GamemodeUI By Pedhot
+
+gamemodeui:
+  title-form: GameModeUI
+  content: GameModeUI By Pedhot
+  
+
+exit:
+  title: GameModeUI
+  subtitle: Bye
+  message: GameModeUI By Pedhot
+  button:
+    name: Exit
+    image-type: 0
+    image-url: textures/ui/cancel
+	
+survival:
+  title: Survival
+  subtitle: Bye
+  message: Changed to Survival Mode
+  button:
+    name: Survival
+    image-type: 0
+    image-url: textures/ui/recipe_book_icon
+	
+creative:
+  title: Creative
+  subtitle: Bye
+  message: Changed to Creative Mode
+  button:
+    name: Creative
+    image-type: 0
+    image-url: textures/ui/recipe_book_icon
+	
+spectator:
+  title: Spectator
+  subtitle: Bye
+  message: Changed to Spectator Mode
+  button:
+    name: Spectator
+    image-type: 0
+    image-url: textures/ui/recipe_book_icon
+	
+adventure:
+  title: Adventure
+  subtitle: Bye
+  message: Changed to Adventure Mode
+  button:
+    name: Adventure
+    image-type: 0
+    image-url: textures/ui/recipe_book_icon
