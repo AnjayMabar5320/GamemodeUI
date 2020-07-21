@@ -3,9 +3,7 @@
 gamemodeui:
   title-form: GameModeUI
   content: GameModeUI By Pedhot
-  
-
-exit:
+ exit:
   title: GameModeUI
   subtitle: Bye
   message: GameModeUI By Pedhot
@@ -13,7 +11,6 @@ exit:
     name: Exit
     image-type: 0
     image-url: textures/ui/cancel
-	
 survival:
   title: Survival
   subtitle: Bye
@@ -22,7 +19,6 @@ survival:
     name: Survival
     image-type: 0
     image-url: textures/ui/recipe_book_icon
-	
 creative:
   title: Creative
   subtitle: Bye
@@ -31,7 +27,6 @@ creative:
     name: Creative
     image-type: 0
     image-url: textures/ui/recipe_book_icon
-	
 spectator:
   title: Spectator
   subtitle: Bye
@@ -40,7 +35,6 @@ spectator:
     name: Spectator
     image-type: 0
     image-url: textures/ui/recipe_book_icon
-	
 adventure:
   title: Adventure
   subtitle: Bye
