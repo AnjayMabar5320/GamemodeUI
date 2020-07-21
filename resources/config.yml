@@ -3,7 +3,7 @@
 gamemodeui:
   title-form: GameModeUI
   content: GameModeUI By Pedhot
- exit:
+exit:
   title: GameModeUI
   subtitle: Bye
   message: GameModeUI By Pedhot
